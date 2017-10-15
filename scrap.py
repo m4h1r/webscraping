@@ -261,7 +261,7 @@ elif Son5d2[0:len(DeplasmanTakimi)]!=DeplasmanTakimi :
 	d2 = int(Son5d2[-((len(DeplasmanTakimi))+17)])
 
 if Son5d2[0:len(DeplasmanTakimi)]==DeplasmanTakimi and c2>d2:
-	A11=1
+	A11=1 
 elif Son5d2[0:len(DeplasmanTakimi)]==DeplasmanTakimi and c2==d2:
 	A11=0
 elif Son5d2[0:len(DeplasmanTakimi)]==DeplasmanTakimi and c2<d2:
